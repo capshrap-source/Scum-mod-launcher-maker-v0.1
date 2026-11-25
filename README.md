@@ -1,6 +1,6 @@
  # 🚀 Shrapnel's SCUM Mod Launcher Maker
 
-### FREE Custom SCUM Server Launcher Builder — Cyberpunk Edition
+### FREE Custom SCUM Server Launcher Builder
 
 **Created by Captain Shrapnel**
 
