@@ -68,7 +68,8 @@ Give your community its own branded launcher, complete with custom banners, exec
 This is an independent community-created Windows application and is not an official SCUM product.
 Always follow the game's modding rules and server requirements.
 **Made by Captain Shrapnel**
-<img width="1916" height="1029" alt="375-1795046459-309713660" src="https://github.com/user-attachments/assets/7805504f-0c7f-4a38-9c51-22fda4424c7d" />
-<img width="807" height="1024" alt="375-1795046450-2081743033" src="https://github.com/user-attachments/assets/f851ecd5-0047-478d-beab-f1fabdc8855b" />
+<img width="997" height="901" alt="Screenshot 2026-11-25 124457" src="https://github.com/user-attachments/assets/821e1b92-e9e8-4a11-8aeb-ebc5fbeac302" />
+<img width="1439" height="921" alt="Screenshot 2026-11-25 124645" src="https://github.com/user-attachments/assets/0e97900b-2444-49ac-8228-16d9c722e906" />
+
 
 
